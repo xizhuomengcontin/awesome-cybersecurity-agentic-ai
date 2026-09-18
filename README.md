@@ -108,6 +108,7 @@
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) - Network traffic and labeled attack data for training and evaluating AI-based intrusion detection and response agents.
 
 ## Learning Resources/Podcast
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 - [Agentic Security Newsletter](https://agenticsecurity.substack.com/) - A Newsletter that explores how autonomous, AI-driven agents are reshaping both offensive and defensive security. Each issue dives into the latest in tactics, tools, and ideas defining the future of security.
 - [AI Security Podcast](https://www.aisecuritypodcast.com/) - Interviews with CISOs of Anthrophic, DeepMind and more doing amazing work in LLM and cybersecurity. Topics include Agentic AI, Red Team with AI, AI for Security and Security from AI & more. The show is hosted by 2 former CISOs and currently has the largest CISO & Tech Leader audience for AI Security.
 - [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of AI autonomous agents. While not exclusively cybersecurity focused, it's a valuable resource for discovering emerging frameworks and platforms that could be adapted for security purposes.
